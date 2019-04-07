@@ -1,6 +1,29 @@
+/*
+RESET
+*/
 *{
    margin: 0;
    padding: 0;
    border: 0;
    box-sizing: border-box;
+}
+
+/*
+GENERAL
+*/
+
+body{
+   background-color: #fafafa;
+   font-family: 'Roboto mono', Helvetica;
+}
+
+/*
+HEADER
+*/
+
+
+
+
+#main{
+   text-align: center;
 }
