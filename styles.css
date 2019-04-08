@@ -13,7 +13,7 @@ GENERAL
 */
 
 body{
-   background-color: #fafafa;
+   background-color:#ececec;;
    font-family: 'Roboto mono', Helvetica;
 }
 
@@ -23,6 +23,7 @@ MAIN
 #main{
    text-align: center;
 }
+
 
 /*
 HEADER
@@ -35,14 +36,44 @@ HEADER
 #header {
    color: #fafafa;
    font-weight: 700;
-   margin-bottom: 10px;
    padding: 10px;
 }
 
+/*
+IMG DIV
+*/
 #image{
    width: 50%;
+   margin-top: 20px;
+   border-radius: 10px;
+}
+
+#img-caption{
+   margin-bottom: 20px;
 }
 
 /*
 CAREER
 */
+h2{
+   margin-bottom: 10px;
+   margin-top: 10px;
+}
+
+#tribute-info{
+   margin-bottom: 10px;
+}
+
+#stats-link{
+   margin-top: 10px;
+   margin-bottom: 20px;
+}
+
+#tribute-link{
+   text-decoration: none;
+   color: #0c09e2;
+}
+
+#tribute-link:hover{
+   color: #302387;
+}
