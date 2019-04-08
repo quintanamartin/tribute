@@ -18,12 +18,31 @@ body{
 }
 
 /*
-HEADER
+MAIN
 */
-
-
-
-
 #main{
    text-align: center;
 }
+
+/*
+HEADER
+*/
+#header{
+   background-color: #385170;
+   border-radius: 5px;
+}
+
+#header {
+   color: #fafafa;
+   font-weight: 700;
+   margin-bottom: 10px;
+   padding: 10px;
+}
+
+#image{
+   width: 50%;
+}
+
+/*
+CAREER
+*/
